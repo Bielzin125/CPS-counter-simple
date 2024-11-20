@@ -7,7 +7,7 @@ cps.addEventListener('mousedown', function(){
      contador.innerHTML = count;
 });
 
-reset.addEventListener('mousedown', function(){
+reset.addEventListener('click', function(){
     
     count = 0;
     contador.innerHTML = count;
