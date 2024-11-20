@@ -1,8 +1,11 @@
+button{
+    border: 1px solid #333;
+    border-radius: 20px;
+}
+
 .cps{
     width: 100px;
     height: 30px;
-    border: 1px solid #333;
-    border-radius: 20px;
 }
 
 .contador{
