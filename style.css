@@ -1,0 +1,12 @@
+.cps{
+    width: 100px;
+    height: 30px;
+    border: 1px solid #333;
+    border-radius: 20px;
+}
+
+.contador{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 50px;
+}
